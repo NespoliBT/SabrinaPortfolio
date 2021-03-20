@@ -13,7 +13,7 @@
   <div class="contact">
     <a target="_blank" href="https://instagram.com/investigatopa">
       <div class="icon"></div>
-      Investigatopa
+      @investigatopa
     </a>
   </div>
   <div class="contact">
