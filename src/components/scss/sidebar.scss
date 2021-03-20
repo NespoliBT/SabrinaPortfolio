@@ -1,0 +1,14 @@
+@import "../../scss/variables.scss";
+
+.sidebar {
+  list-style: none;
+
+  li {
+    color: $color_3;
+    padding: 20px;
+    text-transform: uppercase;
+    margin: 10px;
+    font-size: 30px;
+    background-color: $color_5;
+  }
+}

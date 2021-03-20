@@ -1,0 +1,13 @@
+<script lang="ts">
+  import Header from "./components/Header.svelte";
+  import Content from "./components/Content.svelte";
+  import Footer from "./components/Footer.svelte";
+</script>
+
+<Header />
+<Content />
+<Footer />
+
+<style lang="scss">
+  @import "./scss/variables.scss";
+</style>
