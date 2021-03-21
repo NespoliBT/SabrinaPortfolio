@@ -3,6 +3,11 @@
 .description {
   width: 100%;
   line-height: 20px;
+
+  span {
+    color: $color_4;
+  }
+
   .open {
     margin-top: 20px;
     background: $color_4;

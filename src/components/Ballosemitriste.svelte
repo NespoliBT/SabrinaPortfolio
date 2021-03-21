@@ -31,9 +31,16 @@
 </script>
 
 <div class="description">
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem tempora iure
-  in, quos quia quidem quibusdam libero cupiditate? Esse incidunt a sed tenetur
-  numquam ducimus aperiam provident iste dolores id.
+  <span>BALLO SEMITRISTE</span> nasce contestualmente al corso “Marketing
+  Management e Comunicazione della Musica” presso Scuola di Produzione Artistica
+  (Milano). <br />
+  Il progetto si propone di essere un esercizio nel campo dell’organizzazione di
+  eventi a tutto tondo: tocca sia aree logistiche che tecniche, oltre che grafiche
+  e di comunicazione. Per questo motivo, si tratta di un progetto che non ha ancora
+  avuto applicazione concreta, ma che spera di diventare realtà in un futuro non
+  troppo lontano. <br />
+  L’obiettivo che mi son posta personalmente è stato elaborare un evento al quale
+  io per prima avrei voluto partecipare, dai colori pop e dallo sguardo nostalgico.
   <div class="open" on:click={() => (presentationOpen = true)}>
     Sfoglia presentazione <span>廊</span>
   </div>
