@@ -18,7 +18,7 @@
   function nextSlide() {
     if (n + 1 > slideNumber) {
       presentationOpen = false;
-      console.log(n);
+      n = 1;
     } else {
       n += 1;
     }
