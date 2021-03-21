@@ -1,0 +1,22 @@
+@import "../../scss/variables.scss";
+
+.resumeCurriculum {
+  margin: 10px;
+
+  .download {
+    text-align: center;
+    background: $color_4;
+    padding: 20px;
+    color: $color_1;
+    font-size: 20px;
+
+    span {
+      margin-left: 10px;
+      color: $color_1;
+      font-family: NerdFont;
+    }
+  }
+  img {
+    width: 100%;
+  }
+}

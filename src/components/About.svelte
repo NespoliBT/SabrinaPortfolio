@@ -7,7 +7,6 @@
   </p>
 </div>
 
-
 <style lang="scss">
   @import "./scss/about.scss";
 </style>

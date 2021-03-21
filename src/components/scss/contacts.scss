@@ -9,7 +9,7 @@
     border-top: 2px solid $color_4;
     border-bottom: 2px solid $color_4;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     width: 100%;
     text-transform: uppercase;
     margin-top: 10px;
@@ -19,8 +19,10 @@
     margin-top: 20px;
     border-bottom: 2px solid $color_4;
     padding: 10px;
+    line-height: 20px;
     .icon {
-      color: $color_5;
+      margin-bottom: 10px;
+      color: $color_4;
       font-family: NerdFont;
       font-size: 40px;
     }

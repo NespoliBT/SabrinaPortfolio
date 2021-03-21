@@ -3,11 +3,19 @@
 .header {
   padding-top: 30px;
   padding-left: 30px;
+
   h1 {
-    font-size: 50px;
-    color: $color_2;
+    font-size: 40px;
+    font-family: Pixelmania;
     text-transform: uppercase;
     color: $color_4;
     font-weight: 600;
+
+    @media screen and(max-width: 590px) {
+      font-size: 30px;
+    }
+    @media screen and(max-width: 450px) {
+      font-size: 20px;
+    }
   }
 }
